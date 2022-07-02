@@ -45,6 +45,7 @@ export default function Index({ posts, globalData }) {
             </li>
           ))}
         </ul>
+        <a href"index.html">susanta</a>
       </main>
       <Footer copyrightText={globalData.footerText} />
       <GradientBackground
